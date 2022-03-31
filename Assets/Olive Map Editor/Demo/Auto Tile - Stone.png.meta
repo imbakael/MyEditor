@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: fb1392a394129dc44b51f9b039e8f459
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4753719319218950290
+    second: Auto Tile - Stone_0
+  - first:
+      213: 5402615657975700174
+    second: Auto Tile - Stone_1
+  - first:
+      213: 7965226522591947878
+    second: Auto Tile - Stone_2
+  - first:
+      213: -8993506182355608345
+    second: Auto Tile - Stone_3
+  - first:
+      213: 4629623289843732864
+    second: Auto Tile - Stone_4
+  - first:
+      213: -5940097895504165677
+    second: Auto Tile - Stone_5
+  - first:
+      213: 2834314815540900148
+    second: Auto Tile - Stone_6
+  - first:
+      213: 1521642652833984702
+    second: Auto Tile - Stone_7
+  - first:
+      213: 4796153310110580023
+    second: Auto Tile - Stone_8
+  - first:
+      213: 7132769407650731359
+    second: Auto Tile - Stone_9
+  - first:
+      213: 5201852781512344089
+    second: Auto Tile - Stone_10
+  - first:
+      213: 1775600574769427003
+    second: Auto Tile - Stone_11
+  - first:
+      213: -9121297352957654099
+    second: Auto Tile - Stone_12
+  - first:
+      213: 8478754196963311368
+    second: Auto Tile - Stone_13
+  - first:
+      213: -4914576306186089790
+    second: Auto Tile - Stone_14
+  - first:
+      213: -7889375826917013781
+    second: Auto Tile - Stone_15
+  - first:
+      213: 2258824177621382745
+    second: Auto Tile - Stone_16
+  - first:
+      213: 7012581002608382923
+    second: Auto Tile - Stone_17
+  - first:
+      213: 8514394125495324063
+    second: Auto Tile - Stone_18
+  - first:
+      213: 297494164323864828
+    second: Auto Tile - Stone_19
+  - first:
+      213: 8738225753278163644
+    second: Auto Tile - Stone_20
+  - first:
+      213: -8093326198880026424
+    second: Auto Tile - Stone_21
+  - first:
+      213: -5426654094747034342
+    second: Auto Tile - Stone_22
+  - first:
+      213: -8026609278023192246
+    second: Auto Tile - Stone_23
+  - first:
+      213: -4912578303862111585
+    second: Auto Tile - Stone_24
+  - first:
+      213: -8581937072938575307
+    second: Auto Tile - Stone_25
+  - first:
+      213: -5788540210473892570
+    second: Auto Tile - Stone_26
+  - first:
+      213: -6838831267285175011
+    second: Auto Tile - Stone_27
+  - first:
+      213: 3955947634233490044
+    second: Auto Tile - Stone_28
+  - first:
+      213: 2930130886904007362
+    second: Auto Tile - Stone_29
+  - first:
+      213: 5436080747736973006
+    second: Auto Tile - Stone_30
+  - first:
+      213: 8336840236154207351
+    second: Auto Tile - Stone_31
+  - first:
+      213: 8605904777991825485
+    second: Auto Tile - Stone_32
+  - first:
+      213: -63735082614423107
+    second: Auto Tile - Stone_33
+  - first:
+      213: 4336395957933988641
+    second: Auto Tile - Stone_34
+  - first:
+      213: 5269201781820202350
+    second: Auto Tile - Stone_35
+  - first:
+      213: -8364384633807288815
+    second: Auto Tile - Stone_36
+  - first:
+      213: -7227324180687961954
+    second: Auto Tile - Stone_37
+  - first:
+      213: 7245347354285287295
+    second: Auto Tile - Stone_38
+  - first:
+      213: -1365920690553738415
+    second: Auto Tile - Stone_39
+  - first:
+      213: 4560197824406301215
+    second: Auto Tile - Stone_40
+  - first:
+      213: -8135950127087866354
+    second: Auto Tile - Stone_41
+  - first:
+      213: -1457381815452232292
+    second: Auto Tile - Stone_42
+  - first:
+      213: -2045963385500647076
+    second: Auto Tile - Stone_43
+  - first:
+      213: -3812197766884541471
+    second: Auto Tile - Stone_44
+  - first:
+      213: -3000123371355042760
+    second: Auto Tile - Stone_45
+  - first:
+      213: 5919015657758769048
+    second: Auto Tile - Stone_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Auto Tile - Stone_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc5ff8b84946d5428a07184004bc0b2
+      internalID: -4753719319218950290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4478729697c7846b10198406c7f605
+      internalID: 5402615657975700174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9425dfb8d9b872749b5f73eac5bb7d98
+      internalID: 7965226522591947878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f1a6d04da30c84abb9280e2654c542
+      internalID: -8993506182355608345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96a72aedcd68fe4db4fc24996ba61ab
+      internalID: 4629623289843732864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513fbd1a39758147bb3eedeef4dfaa3
+      internalID: -5940097895504165677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bbc3f40c1fec741b3baf7fea8aedd6
+      internalID: 2834314815540900148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c264c8816cb9cc42a2df059d5d59611
+      internalID: 1521642652833984702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c093d8958693e434c94e09c32d4eacf6
+      internalID: 4796153310110580023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6788e293cdad34185964525779dfc2
+      internalID: 7132769407650731359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5345c6f38406d41468ca6a6ddf3333d2
+      internalID: 5201852781512344089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07033122ffe5884187f994d418db86d
+      internalID: 1775600574769427003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc85d9b7376a0674989be7305768fbdf
+      internalID: -9121297352957654099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a1e70e53ef708419d5fa1a6f5ca263
+      internalID: 8478754196963311368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d35913a55fe054e92a269f209fb09e
+      internalID: -4914576306186089790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbbe967e15e72545b180ddbb1ae9961
+      internalID: -7889375826917013781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979e31b02ab968840b6847a6552c0225
+      internalID: 2258824177621382745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93da48f144df604f843b8aa589233b3
+      internalID: 7012581002608382923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe43b2feb10c2ee439e7b427b3045e55
+      internalID: 8514394125495324063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a4ca86eb39c2e418c16d75b76db106
+      internalID: 297494164323864828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045315a930f9476468f0eb74b3be44d6
+      internalID: 8738225753278163644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8faae46a9b17468f286a4609858fe
+      internalID: -8093326198880026424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709fce706723bda4cb23b462060946bb
+      internalID: -5426654094747034342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b8ea1746c4bb409d6f800c8d7fdeb
+      internalID: -8026609278023192246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d622fd0a8e1c547bf3e2d9d29005ab
+      internalID: -4912578303862111585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c769c12a5864f4c9adae753149ae24
+      internalID: -8581937072938575307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed0cb039dd90c24f85863eaf50bdee1
+      internalID: -5788540210473892570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f7799d0e880547a60f893501614d1
+      internalID: -6838831267285175011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99061d745350e924e9fb8a9166cecd76
+      internalID: 3955947634233490044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b13225f91e71d47a8ce2a8e24164d5
+      internalID: 2930130886904007362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9952c21bb5231941b5bf74d9aa230c9
+      internalID: 5436080747736973006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdcc1cc18ed68d4288e47c1d934c7ec
+      internalID: 8336840236154207351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a716539cb44ab4d94cc3c9ddedd0e9
+      internalID: 8605904777991825485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c9a9d9e1898c043b26a87cd7d032e1
+      internalID: -63735082614423107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e2ff4cab54d564ca27335517a33130
+      internalID: 4336395957933988641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd5c017a0517c644a230fcc510fdc25
+      internalID: 5269201781820202350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c937e79ef0da5f548a5c7ceb5a52645e
+      internalID: -8364384633807288815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4320dfc469e8a4048a964d1e05ae08f1
+      internalID: -7227324180687961954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f36dacb72786c24fb3c3cd55bde5d94
+      internalID: 7245347354285287295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719abf6fc7ccef440928e07baf00722e
+      internalID: -1365920690553738415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_40
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ac36df3cb5c2c4a9954ed0bc586b77
+      internalID: 4560197824406301215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3dba1c02887f24a8fc5b6107d7f56f
+      internalID: -8135950127087866354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64866d082670656428a5884b907d6003
+      internalID: -1457381815452232292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b14ecc5264eebc448a29c3d7cc582f2
+      internalID: -2045963385500647076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24798154d057624fb624a6a7198122a
+      internalID: -3812197766884541471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb50505d61de3498fad5b36dbc9afd
+      internalID: -3000123371355042760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Stone_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829f074a7ddddc34ab163271d4712558
+      internalID: 5919015657758769048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3fd5a806d61c7064691a6929a9b0761f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Auto Tile - Stone_42: -1457381815452232292
+      Auto Tile - Stone_36: -8364384633807288815
+      Auto Tile - Stone_2: 7965226522591947878
+      Auto Tile - Stone_16: 2258824177621382745
+      Auto Tile - Stone_45: -3000123371355042760
+      Auto Tile - Stone_21: -8093326198880026424
+      Auto Tile - Stone_31: 8336840236154207351
+      Auto Tile - Stone_9: 7132769407650731359
+      Auto Tile - Stone_12: -9121297352957654099
+      Auto Tile - Stone_37: -7227324180687961954
+      Auto Tile - Stone_13: 8478754196963311368
+      Auto Tile - Stone_18: 8514394125495324063
+      Auto Tile - Stone_29: 2930130886904007362
+      Auto Tile - Stone_44: -3812197766884541471
+      Auto Tile - Stone_3: -8993506182355608345
+      Auto Tile - Stone_43: -2045963385500647076
+      Auto Tile - Stone_40: 4560197824406301215
+      Auto Tile - Stone_35: 5269201781820202350
+      Auto Tile - Stone_32: 8605904777991825485
+      Auto Tile - Stone_33: -63735082614423107
+      Auto Tile - Stone_7: 1521642652833984702
+      Auto Tile - Stone_19: 297494164323864828
+      Auto Tile - Stone_26: -5788540210473892570
+      Auto Tile - Stone_14: -4914576306186089790
+      Auto Tile - Stone_0: -4753719319218950290
+      Auto Tile - Stone_46: 5919015657758769048
+      Auto Tile - Stone_24: -4912578303862111585
+      Auto Tile - Stone_34: 4336395957933988641
+      Auto Tile - Stone_22: -5426654094747034342
+      Auto Tile - Stone_10: 5201852781512344089
+      Auto Tile - Stone_20: 8738225753278163644
+      Auto Tile - Stone_30: 5436080747736973006
+      Auto Tile - Stone_27: -6838831267285175011
+      Auto Tile - Stone_8: 4796153310110580023
+      Auto Tile - Stone_17: 7012581002608382923
+      Auto Tile - Stone_1: 5402615657975700174
+      Auto Tile - Stone_5: -5940097895504165677
+      Auto Tile - Stone_4: 4629623289843732864
+      Auto Tile - Stone_11: 1775600574769427003
+      Auto Tile - Stone_25: -8581937072938575307
+      Auto Tile - Stone_28: 3955947634233490044
+      Auto Tile - Stone_41: -8135950127087866354
+      Auto Tile - Stone_15: -7889375826917013781
+      Auto Tile - Stone_6: 2834314815540900148
+      Auto Tile - Stone_39: -1365920690553738415
+      Auto Tile - Stone_23: -8026609278023192246
+      Auto Tile - Stone_38: 7245347354285287295
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

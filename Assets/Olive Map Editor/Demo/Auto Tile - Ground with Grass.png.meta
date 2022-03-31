@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 6346259586a667a44939e5d264384f5f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7413957060777168969
+    second: Auto Tile - Ground with Grass_0
+  - first:
+      213: 3720057091141289222
+    second: Auto Tile - Ground with Grass_1
+  - first:
+      213: 6045878739404035884
+    second: Auto Tile - Ground with Grass_2
+  - first:
+      213: 2964446100796538327
+    second: Auto Tile - Ground with Grass_3
+  - first:
+      213: 6625766949417249443
+    second: Auto Tile - Ground with Grass_4
+  - first:
+      213: -8794455297067209280
+    second: Auto Tile - Ground with Grass_5
+  - first:
+      213: 4138132269238692425
+    second: Auto Tile - Ground with Grass_6
+  - first:
+      213: -6459130649629210962
+    second: Auto Tile - Ground with Grass_7
+  - first:
+      213: -8521807039110152807
+    second: Auto Tile - Ground with Grass_8
+  - first:
+      213: -2352817915650006196
+    second: Auto Tile - Ground with Grass_9
+  - first:
+      213: 4053552672767164087
+    second: Auto Tile - Ground with Grass_10
+  - first:
+      213: -2608956585596558578
+    second: Auto Tile - Ground with Grass_11
+  - first:
+      213: 791203655157396464
+    second: Auto Tile - Ground with Grass_12
+  - first:
+      213: -731024565166278254
+    second: Auto Tile - Ground with Grass_13
+  - first:
+      213: 5655503986188594844
+    second: Auto Tile - Ground with Grass_14
+  - first:
+      213: -4669602419904098573
+    second: Auto Tile - Ground with Grass_15
+  - first:
+      213: 5869910178682238594
+    second: Auto Tile - Ground with Grass_16
+  - first:
+      213: -7487645021748127072
+    second: Auto Tile - Ground with Grass_17
+  - first:
+      213: -8353668960353734302
+    second: Auto Tile - Ground with Grass_18
+  - first:
+      213: -2022349537832015934
+    second: Auto Tile - Ground with Grass_19
+  - first:
+      213: 8797184108072011720
+    second: Auto Tile - Ground with Grass_20
+  - first:
+      213: -3453933000811008246
+    second: Auto Tile - Ground with Grass_21
+  - first:
+      213: -8044975129835438812
+    second: Auto Tile - Ground with Grass_22
+  - first:
+      213: -9138370545973582588
+    second: Auto Tile - Ground with Grass_23
+  - first:
+      213: 3361920434348567996
+    second: Auto Tile - Ground with Grass_24
+  - first:
+      213: 3669328642518661366
+    second: Auto Tile - Ground with Grass_25
+  - first:
+      213: -3954538043259359714
+    second: Auto Tile - Ground with Grass_26
+  - first:
+      213: -6833136945782548018
+    second: Auto Tile - Ground with Grass_27
+  - first:
+      213: 1734550127545581117
+    second: Auto Tile - Ground with Grass_28
+  - first:
+      213: 5542159826606960982
+    second: Auto Tile - Ground with Grass_29
+  - first:
+      213: 5657501614595462930
+    second: Auto Tile - Ground with Grass_30
+  - first:
+      213: 4404107383794667838
+    second: Auto Tile - Ground with Grass_31
+  - first:
+      213: -5222862002454527273
+    second: Auto Tile - Ground with Grass_32
+  - first:
+      213: -978929386622578005
+    second: Auto Tile - Ground with Grass_33
+  - first:
+      213: 416627376196621999
+    second: Auto Tile - Ground with Grass_34
+  - first:
+      213: -9034403648379835842
+    second: Auto Tile - Ground with Grass_35
+  - first:
+      213: -7605851654976406832
+    second: Auto Tile - Ground with Grass_36
+  - first:
+      213: -8158383261956135678
+    second: Auto Tile - Ground with Grass_37
+  - first:
+      213: 230965895248680105
+    second: Auto Tile - Ground with Grass_38
+  - first:
+      213: -8349953012813940990
+    second: Auto Tile - Ground with Grass_39
+  - first:
+      213: 30085406268559129
+    second: Auto Tile - Ground with Grass_40
+  - first:
+      213: 3810327997697820714
+    second: Auto Tile - Ground with Grass_41
+  - first:
+      213: 4647603512059972800
+    second: Auto Tile - Ground with Grass_42
+  - first:
+      213: 5357081122024985246
+    second: Auto Tile - Ground with Grass_43
+  - first:
+      213: 7710388333183191880
+    second: Auto Tile - Ground with Grass_44
+  - first:
+      213: -4905582132779289
+    second: Auto Tile - Ground with Grass_45
+  - first:
+      213: -6972617257627736813
+    second: Auto Tile - Ground with Grass_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c98ae9cdcc79854d9043491069712a8
+      internalID: 7413957060777168969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a6f70d7b94f324282408c2186aa58f
+      internalID: 3720057091141289222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9853205f915ab204c87f8fef4de8ddcf
+      internalID: 6045878739404035884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c6641fa0afb284f9030cb51ea2892a
+      internalID: 2964446100796538327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc163010a348f347808ab92e157a02f
+      internalID: 6625766949417249443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_5
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15bb44caa372cb428ed72eba0e25cf1
+      internalID: -8794455297067209280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_6
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58383481c9a67ae488d486f42ef9a3ae
+      internalID: 4138132269238692425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e341ebdafdc4343469e4093991658938
+      internalID: -6459130649629210962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee663cc4e37e4bc45a62b3ae028fe7d9
+      internalID: -8521807039110152807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac53dec677b665c47b42df16bd943435
+      internalID: -2352817915650006196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508a8995bea3ee245b04dd06801398ab
+      internalID: 4053552672767164087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dcf0dce73a3cc46a7ba2ff7e30a2a8
+      internalID: -2608956585596558578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_12
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12bf8577bea3b4684a7f8b70b9ecc9
+      internalID: 791203655157396464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_13
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 93
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b624d53c6d57fa143b3986c2dffec6f9
+      internalID: -731024565166278254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55c5052754889d40ba3c8853bd97406
+      internalID: 5655503986188594844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8fe801f76197948b583b79ccae60b2
+      internalID: -4669602419904098573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138e7df7ca6d1e438221aff29336282
+      internalID: 5869910178682238594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e0058303e2ea4a4ba2cd294f370ee76
+      internalID: -7487645021748127072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a9ffe21f6f2c14e85c56339d7d1fa7
+      internalID: -8353668960353734302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_19
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e1ba44a980bca4e803d4045bd75333
+      internalID: -2022349537832015934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 75
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c838171771864ab83762b362c271c
+      internalID: 8797184108072011720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06122bd72e9391458a3000c13e82172
+      internalID: -3453933000811008246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6345ff972a16f1429acd9f7e90559b8
+      internalID: -8044975129835438812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_23
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7342b367ad9141982b5dff8b17ae5
+      internalID: -9138370545973582588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_24
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce2eb0295c5ff24a8458ea197a2a3e5
+      internalID: 3361920434348567996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_25
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cb7d1dcc7b65d4a99f5db179016aac
+      internalID: 3669328642518661366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_26
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895ac7057fcf9214cb1842a4613084ca
+      internalID: -3954538043259359714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cae7557ab0b8f43b7e6bfc178ae420
+      internalID: -6833136945782548018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2404741087c7e4b47b56f9ad5b57137a
+      internalID: 1734550127545581117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_29
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68454f8afc613334d8b8ad4a3a98094d
+      internalID: 5542159826606960982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_30
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381d14208cd80374bbfb267124bafb6f
+      internalID: 5657501614595462930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_31
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e228dfdc2c604d40a96df629b34e071
+      internalID: 4404107383794667838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_32
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095d9842992c454988631229102406e
+      internalID: -5222862002454527273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_33
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2bdd66b1089a842a08dba246eeb1d4
+      internalID: -978929386622578005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_34
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3ef13a34d09c948ae875a64cf94747
+      internalID: 416627376196621999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_35
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442afe7fe4372b245aeb6dba39f4fb52
+      internalID: -9034403648379835842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa69feaa62cefa447be4cbfd27646679
+      internalID: -7605851654976406832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_37
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfbb836f4ac28c4fa4da847bb758346
+      internalID: -8158383261956135678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_38
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b919e4c33dae7944ad0e19407355975
+      internalID: 230965895248680105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_39
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6650b69ba4e2eb548b9c1c573e51b689
+      internalID: -8349953012813940990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_40
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002081c687c7ecc438998506812ce1a2
+      internalID: 30085406268559129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_41
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 21
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749b01d02d3d7bc46bcdbb90c07da6e9
+      internalID: 3810327997697820714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54a25dd2cca6b64c91edf5a0a5f68f2
+      internalID: 4647603512059972800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_43
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27035eedac6ec244ea316bb8469648ed
+      internalID: 5357081122024985246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede091a16a47824d8478a25f34b5433
+      internalID: 7710388333183191880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_45
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188a6b9910ae80540bc55016d9814391
+      internalID: -4905582132779289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Auto Tile - Ground with Grass_46
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac016bdd23abef438511287fc402d3e
+      internalID: -6972617257627736813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5945665ae30c5ac4aad5c4196255db41
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Auto Tile - Ground with Grass_45: -4905582132779289
+      Auto Tile - Ground with Grass_46: -6972617257627736813
+      Auto Tile - Ground with Grass_4: 6625766949417249443
+      Auto Tile - Ground with Grass_20: 8797184108072011720
+      Auto Tile - Ground with Grass_27: -6833136945782548018
+      Auto Tile - Ground with Grass_22: -8044975129835438812
+      Auto Tile - Ground with Grass_33: -978929386622578005
+      Auto Tile - Ground with Grass_10: 4053552672767164087
+      Auto Tile - Ground with Grass_6: 4138132269238692425
+      Auto Tile - Ground with Grass_3: 2964446100796538327
+      Auto Tile - Ground with Grass_8: -8521807039110152807
+      Auto Tile - Ground with Grass_17: -7487645021748127072
+      Auto Tile - Ground with Grass_28: 1734550127545581117
+      Auto Tile - Ground with Grass_37: -8158383261956135678
+      Auto Tile - Ground with Grass_13: -731024565166278254
+      Auto Tile - Ground with Grass_19: -2022349537832015934
+      Auto Tile - Ground with Grass_26: -3954538043259359714
+      Auto Tile - Ground with Grass_34: 416627376196621999
+      Auto Tile - Ground with Grass_11: -2608956585596558578
+      Auto Tile - Ground with Grass_41: 3810327997697820714
+      Auto Tile - Ground with Grass_36: -7605851654976406832
+      Auto Tile - Ground with Grass_42: 4647603512059972800
+      Auto Tile - Ground with Grass_23: -9138370545973582588
+      Auto Tile - Ground with Grass_0: 7413957060777168969
+      Auto Tile - Ground with Grass_31: 4404107383794667838
+      Auto Tile - Ground with Grass_25: 3669328642518661366
+      Auto Tile - Ground with Grass_18: -8353668960353734302
+      Auto Tile - Ground with Grass_32: -5222862002454527273
+      Auto Tile - Ground with Grass_39: -8349953012813940990
+      Auto Tile - Ground with Grass_2: 6045878739404035884
+      Auto Tile - Ground with Grass_40: 30085406268559129
+      Auto Tile - Ground with Grass_30: 5657501614595462930
+      Auto Tile - Ground with Grass_15: -4669602419904098573
+      Auto Tile - Ground with Grass_5: -8794455297067209280
+      Auto Tile - Ground with Grass_44: 7710388333183191880
+      Auto Tile - Ground with Grass_1: 3720057091141289222
+      Auto Tile - Ground with Grass_16: 5869910178682238594
+      Auto Tile - Ground with Grass_29: 5542159826606960982
+      Auto Tile - Ground with Grass_35: -9034403648379835842
+      Auto Tile - Ground with Grass_38: 230965895248680105
+      Auto Tile - Ground with Grass_9: -2352817915650006196
+      Auto Tile - Ground with Grass_14: 5655503986188594844
+      Auto Tile - Ground with Grass_43: 5357081122024985246
+      Auto Tile - Ground with Grass_7: -6459130649629210962
+      Auto Tile - Ground with Grass_12: 791203655157396464
+      Auto Tile - Ground with Grass_24: 3361920434348567996
+      Auto Tile - Ground with Grass_21: -3453933000811008246
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
