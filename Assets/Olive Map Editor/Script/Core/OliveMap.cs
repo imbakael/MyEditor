@@ -551,10 +551,8 @@
 			// Rooms
 			for (int roomIndex = 0; roomIndex < MapRoot.childCount; roomIndex++) {
 				var roomTF = MapRoot.GetChild(roomIndex);
-				if (callBack != null) {
-					callBack(roomTF);
-				}
-				roomTF.localPosition = Vector3Round(roomTF.localPosition / GridSize) * GridSize;
+                callBack?.Invoke(roomTF);
+                roomTF.localPosition = Vector3Round(roomTF.localPosition / GridSize) * GridSize;
 				roomTF.localRotation = Quaternion.identity;
 				roomTF.localScale = Vector3.one;
 				roomTF.gameObject.SetActive(!OnlyShowSelectingRoom || openingRoomIndex < 0 || roomIndex == openingRoomIndex);
